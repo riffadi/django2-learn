@@ -1,1 +1,1 @@
-# django2-learn
+# Learning Django Version 2.2
